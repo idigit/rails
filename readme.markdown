@@ -1,0 +1,1 @@
+Testing out Rails. I'm a noob. 
